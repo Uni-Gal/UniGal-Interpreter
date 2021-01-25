@@ -1,5 +1,5 @@
 # UniGal-Interpreter
-A “Engine” that using UniGal-Script
+An “Engine” that using UniGal-Script
 
 ## 解释器 Interpreter
 
